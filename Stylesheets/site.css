@@ -1,0 +1,31 @@
+.execute-container {
+    width: 33%;
+    border: 1px solid black;
+    height: 97%;
+    position: absolute;
+}
+
+.container-title {
+    width: 100%;
+    text-align: center;
+    line-height: 20px;
+}
+
+.execute-text {
+    margin: auto;
+    position: relative;
+    display: block;
+    width: 95%;
+    height: 87%;
+}
+
+.execute-button {
+    margin:auto;
+    display: block;
+}
+
+.get-next-code-step {
+    position: relative;
+    display: block;
+    left: 50%;
+}
